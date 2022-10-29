@@ -8,4 +8,4 @@ I also make Discord bots in python
 
 Github : https://github.com/Gravvyyy
 
-Discord Profile : discord.com/users/990248364664848416
+Discord Profile : https://discord.com/users/990248364664848416
